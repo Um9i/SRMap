@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SRMap/static/css/main.9362847f.css",
+    "main.js": "/SRMap/static/js/main.2a10476e.js",
+    "static/js/787.57d4d9af.chunk.js": "/SRMap/static/js/787.57d4d9af.chunk.js",
+    "static/media/Ladywell.svg": "/SRMap/static/media/Ladywell.b9ed30510f300fd67292d0fe3e711815.svg",
+    "static/media/Turnberg.svg": "/SRMap/static/media/Turnberg.aeb837ff0584bbe560a6fd7c1e59b64b.svg",
+    "static/media/Hope.svg": "/SRMap/static/media/Hope.2c2a21dd3dc5f68ad2f3ece0d218654c.svg",
+    "static/media/Irving.svg": "/SRMap/static/media/Irving.429bc1f444fe6d6a67dff27ecbfa715e.svg",
+    "static/media/CSB.svg": "/SRMap/static/media/CSB.02202b513f4cf84905a26705e9d30702.svg",
+    "static/media/Barnes.svg": "/SRMap/static/media/Barnes.cee9701720945879e8661204caac656a.svg",
+    "static/media/Brooke.svg": "/SRMap/static/media/Brooke.2f261c55d67272ae2f1d3854a3800cf3.svg",
+    "static/media/Mayo.svg": "/SRMap/static/media/Mayo.613c04d38141eb8cb8c281e0347ec7a7.svg",
+    "static/media/HumphreyBooth.svg": "/SRMap/static/media/HumphreyBooth.7fc38abc89a625a3daac2fc4b2e51ab4.svg",
+    "index.html": "/SRMap/index.html",
+    "main.9362847f.css.map": "/SRMap/static/css/main.9362847f.css.map",
+    "main.2a10476e.js.map": "/SRMap/static/js/main.2a10476e.js.map",
+    "787.57d4d9af.chunk.js.map": "/SRMap/static/js/787.57d4d9af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9362847f.css",
+    "static/js/main.2a10476e.js"
+  ]
+}
