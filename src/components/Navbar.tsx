@@ -9,7 +9,7 @@ class Navbar extends React.Component {
         return (
             <nav className="navbar navbar-dark bg-primary">
                 <div className='container my-2'>
-                    <Link className="navbar-brand" to="/">
+                    <Link className="navbar-brand" to="/SRMap">
                         Salford Royal Site Map
                     </Link>
                 </div>
