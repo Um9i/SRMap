@@ -24,7 +24,7 @@ class App extends React.Component {
             <Route path="/ladywell" element={<Building apiUrl='https://ltmap.herokuapp.com/api/buildings/4/' />} />
             <Route path="/mayo" element={<Building apiUrl='https://ltmap.herokuapp.com/api/buildings/6/' />} />
             <Route path="/turnberg" element={<Building apiUrl='https://ltmap.herokuapp.com/api/buildings/1/' />} />
-            <Route path="/SRMap" element={<Map />} />
+            <Route path="/" element={<Map />} />
           </Routes>
         </div>
       </Router>
