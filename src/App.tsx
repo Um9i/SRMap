@@ -11,7 +11,7 @@ import Map from './components/Map';
 class App extends React.Component {
   render() {
     return (
-      <Router>
+      <Router basename="/SRMap">
         <Navbar />
         <div className='container'>
           <Routes>
