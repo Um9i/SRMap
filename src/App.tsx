@@ -13,7 +13,7 @@ class App extends React.Component {
     return (
       <Router basename="/SRMap">
         <Navbar />
-        <div className='container'>
+        <div className='container py-4 mt-5'>
           <Routes>
             <Route path="/barnes" element={<Building apiUrl='https://ltmap.herokuapp.com/api/buildings/8/' />} />
             <Route path="/brooke" element={<Building apiUrl='https://ltmap.herokuapp.com/api/buildings/5/' />} />

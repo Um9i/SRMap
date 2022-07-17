@@ -17,7 +17,7 @@ import './Map.css';
 class Map extends React.Component {
   render() {
     return (
-      <div className="Map my-5">
+      <div className="col-lg-6 my-4 card py-4 p-2 p-lg-4 shadow-sm">
         <div className='row'>
           <div className='col-4'>
 

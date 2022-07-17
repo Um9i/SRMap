@@ -47,7 +47,7 @@ class Building extends React.Component<AppProps, AppState> {
             return <div>Error: {error.message}</div>;
         } else if (!isLoaded) {
             return (
-                <div className="d-flex align-items-center">
+                <div className="d-flex align-items-center my-4 col-lg-6 shadow-sm p-4">
                     <strong>Loading...</strong>
                     <div className="spinner-border ms-auto text-primary my-4" role="status">
                         <span className="visually-hidden">Loading...</span>
@@ -56,7 +56,7 @@ class Building extends React.Component<AppProps, AppState> {
             );
         } else {
             return (
-                <ul className='list-group my-4'>
+                <ul className='list-group my-4 col-lg-6 shadow-sm'>
                     {departments?.map(department => (
                         <li className="list-group-item d-flex justify-content-between align-items-center" key={department.id}>
                             {department.name}
