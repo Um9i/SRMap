@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/SRMap/static/css/main.9362847f.css",
-    "main.js": "/SRMap/static/js/main.e08f6f8d.js",
+    "main.css": "/SRMap/static/css/main.eef9a18c.css",
+    "main.js": "/SRMap/static/js/main.209f19e3.js",
     "static/js/787.57d4d9af.chunk.js": "/SRMap/static/js/787.57d4d9af.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/SRMap/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/SRMap/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
     "static/media/Ladywell.svg": "/SRMap/static/media/Ladywell.b9ed30510f300fd67292d0fe3e711815.svg",
     "static/media/Turnberg.svg": "/SRMap/static/media/Turnberg.aeb837ff0584bbe560a6fd7c1e59b64b.svg",
     "static/media/Hope.svg": "/SRMap/static/media/Hope.2c2a21dd3dc5f68ad2f3ece0d218654c.svg",
@@ -13,12 +15,12 @@
     "static/media/Mayo.svg": "/SRMap/static/media/Mayo.613c04d38141eb8cb8c281e0347ec7a7.svg",
     "static/media/HumphreyBooth.svg": "/SRMap/static/media/HumphreyBooth.7fc38abc89a625a3daac2fc4b2e51ab4.svg",
     "index.html": "/SRMap/index.html",
-    "main.9362847f.css.map": "/SRMap/static/css/main.9362847f.css.map",
-    "main.e08f6f8d.js.map": "/SRMap/static/js/main.e08f6f8d.js.map",
+    "main.eef9a18c.css.map": "/SRMap/static/css/main.eef9a18c.css.map",
+    "main.209f19e3.js.map": "/SRMap/static/js/main.209f19e3.js.map",
     "787.57d4d9af.chunk.js.map": "/SRMap/static/js/787.57d4d9af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9362847f.css",
-    "static/js/main.e08f6f8d.js"
+    "static/css/main.eef9a18c.css",
+    "static/js/main.209f19e3.js"
   ]
 }
