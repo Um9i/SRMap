@@ -5,6 +5,7 @@ import {
   Route
 } from "react-router-dom";
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 import Building from './components/Building';
 import Map from './components/Map';
 
@@ -13,7 +14,7 @@ class App extends React.Component {
     return (
       <Router basename="/SRMap">
         <Navbar />
-        <div className='container py-4 mt-5'>
+        <div className='container py-4 mt-5 mb-5'>
           <Routes>
             <Route path="/barnes" element={<Building apiUrl='https://ltmap.herokuapp.com/api/buildings/8/' buildingName='Barnes' />} />
             <Route path="/brooke" element={<Building apiUrl='https://ltmap.herokuapp.com/api/buildings/5/' buildingName='Brooke' />} />
@@ -27,6 +28,7 @@ class App extends React.Component {
             <Route path="/" element={<Map />} />
           </Routes>
         </div>
+        <Footer />
       </Router>
     );
   }

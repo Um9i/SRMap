@@ -58,7 +58,7 @@ class Building extends React.Component<AppProps, AppState> {
         } else {
             return (
                 <div className='Building'>
-                    <h1 className='mt-3'>{ this.props.buildingName } Building</h1>
+                    <h1 className='my-4'>{ this.props.buildingName } Building</h1>
                     <ul className='list-group my-4 col-lg-6 shadow-sm'>
                         {departments?.map(department => (
                             <li className="list-group-item d-flex justify-content-between align-items-center" key={department.id}>

@@ -18,7 +18,7 @@ class Map extends React.Component {
   render() {
     return (
       <div className='Map'>
-        <h1 className='mt-3'>Salford Royal Site Map</h1>
+        <h1 className='my-4'>Salford Royal Site Map</h1>
         <div className="col-lg-6 my-4 card py-4 p-2 p-lg-4 shadow-sm">
           <div className='row'>
             <div className='col-4'>
