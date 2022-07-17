@@ -12,7 +12,6 @@ import irvingSvg from '.././svg/Irving.svg';
 import ladywellSvg from '.././svg/Ladywell.svg';
 import mayoSvg from '.././svg/Mayo.svg';
 import turnbergSvg from '.././svg/Turnberg.svg';
-import './Map.css';
 
 class Map extends React.Component {
   render() {

@@ -12,7 +12,7 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
-    <App />
+    <App apiUrl='https://ltmap.herokuapp.com/api/departments/' />
   </React.StrictMode>
 );
 
