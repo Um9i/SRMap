@@ -8,7 +8,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Building from './components/Building';
 import Map from './components/Map';
-
+import Loading from './components/Loading';
 
 interface AppProps {
   apiUrl: string,
@@ -58,21 +58,14 @@ class App extends React.Component<AppProps, AppState> {
       return <div>Error: {error.message}</div>;
     } else if (!isLoaded) {
       return (
-        <div className="Load">
-          <Navbar />
-          <div className="d-flex align-items-center my-5 p-4">
-            <strong>Loading...</strong>
-            <div className="spinner-border ms-auto text-primary my-4" role="status">
-              <span className="visually-hidden">Loading...</span>
-            </div>
-          </div>
-        </div>
+        <Loading />
       );
     } else {
       return (
         <Router basename="/SRMap">
           <Navbar />
-          <div className='container py-4 mt-5 mb-5'>
+          <div className='my-4 py-1'>
+          <div className='container bg-white py-3 mt-5 mb-5'>
             <Routes>
               <Route path="/barnes" element={<Building buildingId={8} buildingName='Barnes' departments={this.state.departments} />} />
               <Route path="/brooke" element={<Building buildingId={5} buildingName='Brooke' departments={this.state.departments} />} />
@@ -85,6 +78,7 @@ class App extends React.Component<AppProps, AppState> {
               <Route path="/turnberg" element={<Building buildingId={1} buildingName='Turnberg' departments={this.state.departments} />} />
               <Route path="/" element={<Map />} />
             </Routes>
+          </div>
           </div>
           <Footer />
         </Router>

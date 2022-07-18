@@ -1,13 +1,18 @@
-.bi {
-    font-size: 1.5em;
+body {
+    background-color: #E8EDEE !important;
 }
 
-.Navbar {
-    line-height: 0.5;
+.bg-primary {
+    background-color: #005EB8 !important;
 }
 
-.Footer {
-    line-height: 0.5;
+.btn-primary {
+    background-color: #0072CE !important;
+}
+
+.btn-footer {
+    font-size: 140%;
+    padding: 0em 1em 0em 1em;
 }
 
 .buildingSvg {
