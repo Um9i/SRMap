@@ -69,7 +69,7 @@ class App extends React.Component<AppProps, AppState> {
         <div className='App'>
           <Navbar departments={this.state.departments}/>
           <div className='my-4 py-1'>
-            <div className='container bg-white py-3 mb-5'>
+            <div className='container bg-white py-3 my-5'>
               <Routes>
                 <Route path="/barnes" element={<Building buildingId={8} buildingName='Barnes' departments={this.state.departments} />} />
                 <Route path="/brooke" element={<Building buildingId={5} buildingName='Brooke' departments={this.state.departments} />} />

@@ -42,30 +42,30 @@ class Navbar extends React.Component<navbarProps, navbarState> {
                             <button className="btn" type="submit"><i className='bi bi-search text-white m-2'></i></button>
                         </form>
                     </div>
-                </nav>
-                <div className='container pt-4'>
-                    <ul className='list-group mt-5'>
-                        {departments?.filter((val) => {
-                            if (this.state.value === "") {
+                    <div className='container'>
+                        <ul className='list-group w-100'>
+                            {departments?.filter((val) => {
+                                if (this.state.value === "") {
+                                    return null
+                                }
+                                else if (val.name.toLowerCase().includes(this.state.value.toLowerCase())) {
+                                    return val
+                                }
                                 return null
-                            }
-                            else if (val.name.toLowerCase().includes(this.state.value.toLowerCase())) {
-                                return val
-                            }
-                            return null
-                        }).map((val, key) => {
-                            return (
-                                <li key={key} className="list-group-item d-flex justify-content-between align-items-start">
-                                    <div className="ms-2 me-auto">
-                                        <div className="fw-bold">{val.building_name} Building</div>
-                                        {val.name}
-                                    </div>
-                                    <span className="badge bg-primary rounded-pill">Level: {val.level}</span>
-                                </li>
-                            );
-                        })}
-                    </ul>
-                </div>
+                            }).map((val, key) => {
+                                return (
+                                    <li key={key} className="list-group-item d-flex justify-content-between align-items-start">
+                                        <div className="ms-2 me-auto">
+                                            <div className="fw-bold">{val.building_name} Building</div>
+                                            {val.name}
+                                        </div>
+                                        <span className="badge bg-primary rounded-pill">Level: {val.level}</span>
+                                    </li>
+                                );
+                            })}
+                        </ul>
+                    </div>
+                </nav>
             </div>
         );
     }
