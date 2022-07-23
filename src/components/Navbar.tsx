@@ -23,7 +23,6 @@ class Navbar extends React.Component<navbarProps, navbarState> {
     }
 
     handleSubmit(event: any) {
-        alert('A name was submitted: ' + this.state.value);
         event.preventDefault();
     }
 
@@ -48,11 +47,12 @@ class Navbar extends React.Component<navbarProps, navbarState> {
                     <ul className='list-group mt-5'>
                         {departments?.filter((val) => {
                             if (this.state.value === "") {
-                                return
+                                return null
                             }
-                            if (val.name.toLowerCase().includes(this.state.value.toLowerCase())) {
+                            else if (val.name.toLowerCase().includes(this.state.value.toLowerCase())) {
                                 return val
                             }
+                            return null
                         }).map((val, key) => {
                             return (
                                 <li key={key} className="list-group-item d-flex justify-content-between align-items-start">
