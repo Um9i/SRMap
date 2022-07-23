@@ -12,7 +12,8 @@ body {
 
 .btn-footer {
     font-size: 140%;
-    padding: 0em 0.5em 0em 0.5em;
+    padding: 0.1em 0.5em 0.1em 0.5em;
+    margin: -0.25em 0em -0.25em 0em;
 }
 
 .btn-text {
