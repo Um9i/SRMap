@@ -39,7 +39,7 @@ class Navbar extends React.Component<navbarProps, navbarState> {
                     <div className='container my-1'>
                         <form className='d-flex w-100' onSubmit={this.handleSubmit}>
                             <input className='form-control me-2' type='search' placeholder='Search' aria-label='Search' value={this.state.value} onChange={this.handleChange}></input>
-                            <i className='bi bi-search-heart text-white m-2'></i>
+                            <button className="btn" type="submit"><i className='bi bi-search text-white m-2'></i></button>
                         </form>
                     </div>
                 </nav>

@@ -8,7 +8,12 @@ class Footer extends React.Component {
                 <div className='container'>
                     <ul className='navbar-nav me-auto'>
                         <li className='nav-item'>
-                            <Link className='btn btn-primary btn-footer' to='/'><i className='bi bi-house-fill text-white'></i></Link>
+                            <Link className='btn btn-primary btn-footer' to='/'>
+                                <div className=''>
+                                    <i className='bi bi-house-fill text-white'></i>
+                                </div>
+                                <div className='btn-text'>Home</div>
+                            </Link>
                         </li>
                     </ul>
                 </div>

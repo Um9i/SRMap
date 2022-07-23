@@ -12,10 +12,15 @@ body {
 
 .btn-footer {
     font-size: 140%;
-    padding: 0em 1em 0em 1em;
+    padding: 0em 0.5em 0em 0.5em;
 }
 
-.bi-search-heart {
+.btn-text {
+    font-size: 50%;
+    margin-top: -.75em;
+}
+
+.bi-search {
     font-size: 120%;
     padding: 0em 0.5em 0em 0.5em;
 }
