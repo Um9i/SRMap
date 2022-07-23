@@ -15,6 +15,13 @@ body {
     padding: 0em 1em 0em 1em;
 }
 
+.bi-search-heart {
+    font-size: 120%;
+    padding: 0em 0.5em 0em 0.5em;
+}
+
+/* ==== Buildings === */
+
 .buildingSvg {
     width: 100%;
     height: auto;

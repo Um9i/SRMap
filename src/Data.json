@@ -1,0 +1,1452 @@
+[
+    {
+        "id": 44,
+        "url": "https://ltmap.herokuapp.com/api/departments/44/?format=json",
+        "name": "3T MRI Scanner",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 13,
+        "url": "https://ltmap.herokuapp.com/api/departments/13/?format=json",
+        "name": "Accident & Emergency (A&E)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 27,
+        "url": "https://ltmap.herokuapp.com/api/departments/27/?format=json",
+        "name": "ANU",
+        "building": "https://ltmap.herokuapp.com/api/buildings/9/?format=json",
+        "building_id": 9,
+        "building_name": "Humphrey Booth",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 131,
+        "url": "https://ltmap.herokuapp.com/api/departments/131/?format=json",
+        "name": "Bed Management",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 126,
+        "url": "https://ltmap.herokuapp.com/api/departments/126/?format=json",
+        "name": "Bereavement Centre (Pam Woods Suite)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 6,
+        "url": "https://ltmap.herokuapp.com/api/departments/6/?format=json",
+        "name": "Brooke Treatment Unit (BTU)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 28,
+        "url": "https://ltmap.herokuapp.com/api/departments/28/?format=json",
+        "name": "C1 (STU)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/9/?format=json",
+        "building_id": 9,
+        "building_name": "Humphrey Booth",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 123,
+        "url": "https://ltmap.herokuapp.com/api/departments/123/?format=json",
+        "name": "Call Centre",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 104,
+        "url": "https://ltmap.herokuapp.com/api/departments/104/?format=json",
+        "name": "Cancer Services",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 121,
+        "url": "https://ltmap.herokuapp.com/api/departments/121/?format=json",
+        "name": "Capital Estates and Facilities",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 127,
+        "url": "https://ltmap.herokuapp.com/api/departments/127/?format=json",
+        "name": "Car Parking",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 73,
+        "url": "https://ltmap.herokuapp.com/api/departments/73/?format=json",
+        "name": "Chest Clinic",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 100,
+        "url": "https://ltmap.herokuapp.com/api/departments/100/?format=json",
+        "name": "Clinical Health Psychology (Neuro Psychology)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 2,
+        "url": "https://ltmap.herokuapp.com/api/departments/2/?format=json",
+        "name": "Clinical Research Facility",
+        "building": "https://ltmap.herokuapp.com/api/buildings/8/?format=json",
+        "building_id": 8,
+        "building_name": "Barnes",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 1,
+        "url": "https://ltmap.herokuapp.com/api/departments/1/?format=json",
+        "name": "Contact Dermatitis Investigation Unit (CDIU)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/8/?format=json",
+        "building_id": 8,
+        "building_name": "Barnes",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 72,
+        "url": "https://ltmap.herokuapp.com/api/departments/72/?format=json",
+        "name": "CRI",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 7,
+        "url": "https://ltmap.herokuapp.com/api/departments/7/?format=json",
+        "name": "CRI Diagnostics",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 56,
+        "url": "https://ltmap.herokuapp.com/api/departments/56/?format=json",
+        "name": "Decontamination",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 112,
+        "url": "https://ltmap.herokuapp.com/api/departments/112/?format=json",
+        "name": "Dermatology Outpatients",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 115,
+        "url": "https://ltmap.herokuapp.com/api/departments/115/?format=json",
+        "name": "Diabetes (Endocrinology)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 114,
+        "url": "https://ltmap.herokuapp.com/api/departments/114/?format=json",
+        "name": "Diabetes Secretaries",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 113,
+        "url": "https://ltmap.herokuapp.com/api/departments/113/?format=json",
+        "name": "Discharge Lounge",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 130,
+        "url": "https://ltmap.herokuapp.com/api/departments/130/?format=json",
+        "name": "Domestics",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 117,
+        "url": "https://ltmap.herokuapp.com/api/departments/117/?format=json",
+        "name": "Early Pregnancy Unit (EPU Orange)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 14,
+        "url": "https://ltmap.herokuapp.com/api/departments/14/?format=json",
+        "name": "Emergency Assessment Unit (EAU)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 74,
+        "url": "https://ltmap.herokuapp.com/api/departments/74/?format=json",
+        "name": "ENT",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 145,
+        "url": "https://ltmap.herokuapp.com/api/departments/145/?format=json",
+        "name": "Ground Restaurant",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 8,
+        "url": "https://ltmap.herokuapp.com/api/departments/8/?format=json",
+        "name": "Haematology Day Unit (ERW)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 122,
+        "url": "https://ltmap.herokuapp.com/api/departments/122/?format=json",
+        "name": "Health Records",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 45,
+        "url": "https://ltmap.herokuapp.com/api/departments/45/?format=json",
+        "name": "Heart Care Unit",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 98,
+        "url": "https://ltmap.herokuapp.com/api/departments/98/?format=json",
+        "name": "IM&T",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 111,
+        "url": "https://ltmap.herokuapp.com/api/departments/111/?format=json",
+        "name": "Inpatient Pharmacy",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 116,
+        "url": "https://ltmap.herokuapp.com/api/departments/116/?format=json",
+        "name": "IV Team",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 46,
+        "url": "https://ltmap.herokuapp.com/api/departments/46/?format=json",
+        "name": "L1",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 57,
+        "url": "https://ltmap.herokuapp.com/api/departments/57/?format=json",
+        "name": "Linen",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 129,
+        "url": "https://ltmap.herokuapp.com/api/departments/129/?format=json",
+        "name": "Macmillan Information Centre",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 75,
+        "url": "https://ltmap.herokuapp.com/api/departments/75/?format=json",
+        "name": "Main Outpatients",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 133,
+        "url": "https://ltmap.herokuapp.com/api/departments/133/?format=json",
+        "name": "Mortuary",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 76,
+        "url": "https://ltmap.herokuapp.com/api/departments/76/?format=json",
+        "name": "Oral Surgery",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 143,
+        "url": "https://ltmap.herokuapp.com/api/departments/143/?format=json",
+        "name": "Orthopaedic Admin",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 77,
+        "url": "https://ltmap.herokuapp.com/api/departments/77/?format=json",
+        "name": "Orthotics",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 43,
+        "url": "https://ltmap.herokuapp.com/api/departments/43/?format=json",
+        "name": "Pain Centre",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 128,
+        "url": "https://ltmap.herokuapp.com/api/departments/128/?format=json",
+        "name": "Panda Unit",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 3,
+        "url": "https://ltmap.herokuapp.com/api/departments/3/?format=json",
+        "name": "Photobiology",
+        "building": "https://ltmap.herokuapp.com/api/buildings/8/?format=json",
+        "building_id": 8,
+        "building_name": "Barnes",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 32,
+        "url": "https://ltmap.herokuapp.com/api/departments/32/?format=json",
+        "name": "Physiotherapy Outpatients",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 78,
+        "url": "https://ltmap.herokuapp.com/api/departments/78/?format=json",
+        "name": "Podiatry",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 144,
+        "url": "https://ltmap.herokuapp.com/api/departments/144/?format=json",
+        "name": "Post Room",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 79,
+        "url": "https://ltmap.herokuapp.com/api/departments/79/?format=json",
+        "name": "Pre Op",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 47,
+        "url": "https://ltmap.herokuapp.com/api/departments/47/?format=json",
+        "name": "Radiology 2",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 106,
+        "url": "https://ltmap.herokuapp.com/api/departments/106/?format=json",
+        "name": "Rapid Diagnostic Centre",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 58,
+        "url": "https://ltmap.herokuapp.com/api/departments/58/?format=json",
+        "name": "Receipt & Distribution",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 15,
+        "url": "https://ltmap.herokuapp.com/api/departments/15/?format=json",
+        "name": "Renal Dialysis Unit",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 16,
+        "url": "https://ltmap.herokuapp.com/api/departments/16/?format=json",
+        "name": "Renal Outpatients",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 105,
+        "url": "https://ltmap.herokuapp.com/api/departments/105/?format=json",
+        "name": "Respiratory Nurses",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 103,
+        "url": "https://ltmap.herokuapp.com/api/departments/103/?format=json",
+        "name": "Rheumatology Admin",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 132,
+        "url": "https://ltmap.herokuapp.com/api/departments/132/?format=json",
+        "name": "Social Workers",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 59,
+        "url": "https://ltmap.herokuapp.com/api/departments/59/?format=json",
+        "name": "Sterile Services",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 99,
+        "url": "https://ltmap.herokuapp.com/api/departments/99/?format=json",
+        "name": "Stoma Care",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 33,
+        "url": "https://ltmap.herokuapp.com/api/departments/33/?format=json",
+        "name": "Stroke Rehabilitation Unit",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 0,
+        "public_access": true
+    },
+    {
+        "id": 101,
+        "url": "https://ltmap.herokuapp.com/api/departments/101/?format=json",
+        "name": "Stroke Research (Vascular Research)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 60,
+        "url": "https://ltmap.herokuapp.com/api/departments/60/?format=json",
+        "name": "Uniform",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 102,
+        "url": "https://ltmap.herokuapp.com/api/departments/102/?format=json",
+        "name": "Upper GI",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 0,
+        "public_access": false
+    },
+    {
+        "id": 34,
+        "url": "https://ltmap.herokuapp.com/api/departments/34/?format=json",
+        "name": "B1",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 35,
+        "url": "https://ltmap.herokuapp.com/api/departments/35/?format=json",
+        "name": "B2",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 36,
+        "url": "https://ltmap.herokuapp.com/api/departments/36/?format=json",
+        "name": "B3 (ASU 2)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 37,
+        "url": "https://ltmap.herokuapp.com/api/departments/37/?format=json",
+        "name": "B4 (ASU)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 110,
+        "url": "https://ltmap.herokuapp.com/api/departments/110/?format=json",
+        "name": "Biorepository",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 29,
+        "url": "https://ltmap.herokuapp.com/api/departments/29/?format=json",
+        "name": "C3",
+        "building": "https://ltmap.herokuapp.com/api/buildings/9/?format=json",
+        "building_id": 9,
+        "building_name": "Humphrey Booth",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 135,
+        "url": "https://ltmap.herokuapp.com/api/departments/135/?format=json",
+        "name": "Cardio Secretaries",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 138,
+        "url": "https://ltmap.herokuapp.com/api/departments/138/?format=json",
+        "name": "Clinical Photography",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 80,
+        "url": "https://ltmap.herokuapp.com/api/departments/80/?format=json",
+        "name": "Day Case Surgery (SAL1)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 4,
+        "url": "https://ltmap.herokuapp.com/api/departments/4/?format=json",
+        "name": "Dermatopharmacology",
+        "building": "https://ltmap.herokuapp.com/api/buildings/8/?format=json",
+        "building_id": 8,
+        "building_name": "Barnes",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 81,
+        "url": "https://ltmap.herokuapp.com/api/departments/81/?format=json",
+        "name": "Endoscopy",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 120,
+        "url": "https://ltmap.herokuapp.com/api/departments/120/?format=json",
+        "name": "Gastro Secretaries",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 142,
+        "url": "https://ltmap.herokuapp.com/api/departments/142/?format=json",
+        "name": "General Surgery Secretaries",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 85,
+        "url": "https://ltmap.herokuapp.com/api/departments/85/?format=json",
+        "name": "G.I Intervention",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 83,
+        "url": "https://ltmap.herokuapp.com/api/departments/83/?format=json",
+        "name": "G.I Physiology",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 17,
+        "url": "https://ltmap.herokuapp.com/api/departments/17/?format=json",
+        "name": "H1",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 18,
+        "url": "https://ltmap.herokuapp.com/api/departments/18/?format=json",
+        "name": "H2",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 19,
+        "url": "https://ltmap.herokuapp.com/api/departments/19/?format=json",
+        "name": "H3",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 20,
+        "url": "https://ltmap.herokuapp.com/api/departments/20/?format=json",
+        "name": "H4",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 21,
+        "url": "https://ltmap.herokuapp.com/api/departments/21/?format=json",
+        "name": "H5",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 48,
+        "url": "https://ltmap.herokuapp.com/api/departments/48/?format=json",
+        "name": "L2",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 49,
+        "url": "https://ltmap.herokuapp.com/api/departments/49/?format=json",
+        "name": "L3",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 50,
+        "url": "https://ltmap.herokuapp.com/api/departments/50/?format=json",
+        "name": "L4",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 61,
+        "url": "https://ltmap.herokuapp.com/api/departments/61/?format=json",
+        "name": "Library",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 9,
+        "url": "https://ltmap.herokuapp.com/api/departments/9/?format=json",
+        "name": "M1 (Gynae OPD)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 134,
+        "url": "https://ltmap.herokuapp.com/api/departments/134/?format=json",
+        "name": "MCCN",
+        "building": "https://ltmap.herokuapp.com/api/buildings/8/?format=json",
+        "building_id": 8,
+        "building_name": "Barnes",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 137,
+        "url": "https://ltmap.herokuapp.com/api/departments/137/?format=json",
+        "name": "Metabolic Medicine (Mark Holland Suite)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 5,
+        "url": "https://ltmap.herokuapp.com/api/departments/5/?format=json",
+        "name": "Neurophysiology (EEG)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/8/?format=json",
+        "building_id": 8,
+        "building_name": "Barnes",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 141,
+        "url": "https://ltmap.herokuapp.com/api/departments/141/?format=json",
+        "name": "Nutrition Nurses",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 82,
+        "url": "https://ltmap.herokuapp.com/api/departments/82/?format=json",
+        "name": "Orthopaedic Outpatients (Fracture Clinic)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 118,
+        "url": "https://ltmap.herokuapp.com/api/departments/118/?format=json",
+        "name": "Palliative Care",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 84,
+        "url": "https://ltmap.herokuapp.com/api/departments/84/?format=json",
+        "name": "Radiology 1",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 62,
+        "url": "https://ltmap.herokuapp.com/api/departments/62/?format=json",
+        "name": "Reache",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 124,
+        "url": "https://ltmap.herokuapp.com/api/departments/124/?format=json",
+        "name": "Renal Secretaries",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 119,
+        "url": "https://ltmap.herokuapp.com/api/departments/119/?format=json",
+        "name": "Spine Tango",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 1,
+        "public_access": false
+    },
+    {
+        "id": 22,
+        "url": "https://ltmap.herokuapp.com/api/departments/22/?format=json",
+        "name": "Urology Outpatients (UOPD)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 63,
+        "url": "https://ltmap.herokuapp.com/api/departments/63/?format=json",
+        "name": "Vaccine Center",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 1,
+        "public_access": true
+    },
+    {
+        "id": 93,
+        "url": "https://ltmap.herokuapp.com/api/departments/93/?format=json",
+        "name": "Anti Coagulation",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 38,
+        "url": "https://ltmap.herokuapp.com/api/departments/38/?format=json",
+        "name": "B5",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 39,
+        "url": "https://ltmap.herokuapp.com/api/departments/39/?format=json",
+        "name": "B6",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 40,
+        "url": "https://ltmap.herokuapp.com/api/departments/40/?format=json",
+        "name": "B7",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 41,
+        "url": "https://ltmap.herokuapp.com/api/departments/41/?format=json",
+        "name": "B8",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 89,
+        "url": "https://ltmap.herokuapp.com/api/departments/89/?format=json",
+        "name": "Biochemistry",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 94,
+        "url": "https://ltmap.herokuapp.com/api/departments/94/?format=json",
+        "name": "Blood Bank",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 30,
+        "url": "https://ltmap.herokuapp.com/api/departments/30/?format=json",
+        "name": "C2",
+        "building": "https://ltmap.herokuapp.com/api/buildings/9/?format=json",
+        "building_id": 9,
+        "building_name": "Humphrey Booth",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 90,
+        "url": "https://ltmap.herokuapp.com/api/departments/90/?format=json",
+        "name": "Cellular Pathology",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 125,
+        "url": "https://ltmap.herokuapp.com/api/departments/125/?format=json",
+        "name": "Chaplaincy",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 23,
+        "url": "https://ltmap.herokuapp.com/api/departments/23/?format=json",
+        "name": "Critical Care Unit (CCU)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 10,
+        "url": "https://ltmap.herokuapp.com/api/departments/10/?format=json",
+        "name": "Dermatology Orange",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 64,
+        "url": "https://ltmap.herokuapp.com/api/departments/64/?format=json",
+        "name": "Digital Experience Centre",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 24,
+        "url": "https://ltmap.herokuapp.com/api/departments/24/?format=json",
+        "name": "H6",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 25,
+        "url": "https://ltmap.herokuapp.com/api/departments/25/?format=json",
+        "name": "H7",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 26,
+        "url": "https://ltmap.herokuapp.com/api/departments/26/?format=json",
+        "name": "H8",
+        "building": "https://ltmap.herokuapp.com/api/buildings/2/?format=json",
+        "building_id": 2,
+        "building_name": "Hope",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 92,
+        "url": "https://ltmap.herokuapp.com/api/departments/92/?format=json",
+        "name": "Immunology",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 91,
+        "url": "https://ltmap.herokuapp.com/api/departments/91/?format=json",
+        "name": "Infection Control",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 51,
+        "url": "https://ltmap.herokuapp.com/api/departments/51/?format=json",
+        "name": "L5",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 52,
+        "url": "https://ltmap.herokuapp.com/api/departments/52/?format=json",
+        "name": "L6",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 65,
+        "url": "https://ltmap.herokuapp.com/api/departments/65/?format=json",
+        "name": "L&D (Skills Lab)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 11,
+        "url": "https://ltmap.herokuapp.com/api/departments/11/?format=json",
+        "name": "M2",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 88,
+        "url": "https://ltmap.herokuapp.com/api/departments/88/?format=json",
+        "name": "Microbiology",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 136,
+        "url": "https://ltmap.herokuapp.com/api/departments/136/?format=json",
+        "name": "Neurosurgery Offices",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 107,
+        "url": "https://ltmap.herokuapp.com/api/departments/107/?format=json",
+        "name": "NHS Professionals",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 139,
+        "url": "https://ltmap.herokuapp.com/api/departments/139/?format=json",
+        "name": "Occupational Health",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 42,
+        "url": "https://ltmap.herokuapp.com/api/departments/42/?format=json",
+        "name": "Occupational Therapy",
+        "building": "https://ltmap.herokuapp.com/api/buildings/3/?format=json",
+        "building_id": 3,
+        "building_name": "Irving",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 86,
+        "url": "https://ltmap.herokuapp.com/api/departments/86/?format=json",
+        "name": "Pathology",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 87,
+        "url": "https://ltmap.herokuapp.com/api/departments/87/?format=json",
+        "name": "Phlebotomy",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 2,
+        "public_access": true
+    },
+    {
+        "id": 66,
+        "url": "https://ltmap.herokuapp.com/api/departments/66/?format=json",
+        "name": "Preceptorship",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 67,
+        "url": "https://ltmap.herokuapp.com/api/departments/67/?format=json",
+        "name": "Resus",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 68,
+        "url": "https://ltmap.herokuapp.com/api/departments/68/?format=json",
+        "name": "SCO HQ",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 140,
+        "url": "https://ltmap.herokuapp.com/api/departments/140/?format=json",
+        "name": "Thermography",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 108,
+        "url": "https://ltmap.herokuapp.com/api/departments/108/?format=json",
+        "name": "Unison Office",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 109,
+        "url": "https://ltmap.herokuapp.com/api/departments/109/?format=json",
+        "name": "University of Manchester",
+        "building": "https://ltmap.herokuapp.com/api/buildings/7/?format=json",
+        "building_id": 7,
+        "building_name": "CSB",
+        "level": 2,
+        "public_access": false
+    },
+    {
+        "id": 69,
+        "url": "https://ltmap.herokuapp.com/api/departments/69/?format=json",
+        "name": "General Surgery Management",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 3,
+        "public_access": false
+    },
+    {
+        "id": 53,
+        "url": "https://ltmap.herokuapp.com/api/departments/53/?format=json",
+        "name": "L7",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 3,
+        "public_access": true
+    },
+    {
+        "id": 54,
+        "url": "https://ltmap.herokuapp.com/api/departments/54/?format=json",
+        "name": "L8",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 3,
+        "public_access": true
+    },
+    {
+        "id": 12,
+        "url": "https://ltmap.herokuapp.com/api/departments/12/?format=json",
+        "name": "M3",
+        "building": "https://ltmap.herokuapp.com/api/buildings/5/?format=json",
+        "building_id": 5,
+        "building_name": "Brooke",
+        "level": 3,
+        "public_access": true
+    },
+    {
+        "id": 95,
+        "url": "https://ltmap.herokuapp.com/api/departments/95/?format=json",
+        "name": "Main Theatres",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 3,
+        "public_access": false
+    },
+    {
+        "id": 31,
+        "url": "https://ltmap.herokuapp.com/api/departments/31/?format=json",
+        "name": "Neuro Admin",
+        "building": "https://ltmap.herokuapp.com/api/buildings/9/?format=json",
+        "building_id": 9,
+        "building_name": "Humphrey Booth",
+        "level": 3,
+        "public_access": false
+    },
+    {
+        "id": 71,
+        "url": "https://ltmap.herokuapp.com/api/departments/71/?format=json",
+        "name": "Neuro Admin Management",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 3,
+        "public_access": false
+    },
+    {
+        "id": 96,
+        "url": "https://ltmap.herokuapp.com/api/departments/96/?format=json",
+        "name": "Surgical Admissions Lounge (SAL3)",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 3,
+        "public_access": true
+    },
+    {
+        "id": 55,
+        "url": "https://ltmap.herokuapp.com/api/departments/55/?format=json",
+        "name": "Tissue Viability",
+        "building": "https://ltmap.herokuapp.com/api/buildings/4/?format=json",
+        "building_id": 4,
+        "building_name": "Ladywell",
+        "level": 3,
+        "public_access": false
+    },
+    {
+        "id": 70,
+        "url": "https://ltmap.herokuapp.com/api/departments/70/?format=json",
+        "name": "Trust Exec",
+        "building": "https://ltmap.herokuapp.com/api/buildings/6/?format=json",
+        "building_id": 6,
+        "building_name": "Mayo",
+        "level": 3,
+        "public_access": false
+    },
+    {
+        "id": 97,
+        "url": "https://ltmap.herokuapp.com/api/departments/97/?format=json",
+        "name": "Anaesthetics",
+        "building": "https://ltmap.herokuapp.com/api/buildings/1/?format=json",
+        "building_id": 1,
+        "building_name": "Turnberg",
+        "level": 4,
+        "public_access": false
+    }
+]

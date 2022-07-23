@@ -5,6 +5,7 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import './index.css';
+import { BrowserRouter } from "react-router-dom";
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -12,7 +13,9 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
-    <App apiUrl='https://ltmap.herokuapp.com/api/departments/' />
+    <BrowserRouter basename="/SRMap">
+      <App apiUrl='https://ltmap.herokuapp.com/api/departments/' />
+    </BrowserRouter>
   </React.StrictMode>
 );
 
