@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import Building from './components/Building';
 import Map from './components/Map';
 import Loading from './components/Loading';
+import Data from './departments.json';
 
 interface AppProps {
   apiUrl: string,
@@ -29,23 +30,11 @@ class App extends React.Component<AppProps, AppState> {
   }
 
   componentDidMount() {
-    fetch(this.props.apiUrl)
-      .then(res => res.json())
-      .then(
-        (result) => {
-          this.setState({
-            error: null,
-            isLoaded: true,
-            departments: result
-          });
-        },
-        (error) => {
-          this.setState({
-            isLoaded: true,
-            error
-          });
-        }
-      )
+    this.setState({
+      error: null,
+      isLoaded: true,
+      departments: Data
+    });
   }
 
   render() {

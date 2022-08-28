@@ -1,0 +1,1210 @@
+[
+  {
+    "id": 1,
+    "building_id": 8,
+    "building_name": "Barnes",
+    "level": 0,
+    "name": "Contact Dermatitis Investigation Unit (CDIU)",
+    "public_access": true
+  },
+  {
+    "id": 2,
+    "building_id": 8,
+    "building_name": "Barnes",
+    "level": 0,
+    "name": "Clinical Research Facility",
+    "public_access": true
+  },
+  {
+    "id": 3,
+    "building_id": 8,
+    "building_name": "Barnes",
+    "level": 0,
+    "name": "Photobiology",
+    "public_access": true
+  },
+  {
+    "id": 4,
+    "building_id": 8,
+    "building_name": "Barnes",
+    "level": 1,
+    "name": "Dermatopharmacology",
+    "public_access": true
+  },
+  {
+    "id": 5,
+    "building_id": 8,
+    "building_name": "Barnes",
+    "level": 1,
+    "name": "Neurophysiology (EEG)",
+    "public_access": true
+  },
+  {
+    "id": 6,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 0,
+    "name": "Brooke Treatment Unit (BTU)",
+    "public_access": true
+  },
+  {
+    "id": 7,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 0,
+    "name": "CRI Diagnostics",
+    "public_access": true
+  },
+  {
+    "id": 8,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 0,
+    "name": "Haematology Day Unit (ERW)",
+    "public_access": true
+  },
+  {
+    "id": 9,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 1,
+    "name": "M1 (Gynae OPD)",
+    "public_access": true
+  },
+  {
+    "id": 10,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 2,
+    "name": "Dermatology Orange",
+    "public_access": true
+  },
+  {
+    "id": 11,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 2,
+    "name": "M2",
+    "public_access": true
+  },
+  {
+    "id": 12,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 3,
+    "name": "M3",
+    "public_access": true
+  },
+  {
+    "id": 13,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Accident & Emergency (A&E)",
+    "public_access": true
+  },
+  {
+    "id": 14,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Emergency Assessment Unit (EAU)",
+    "public_access": true
+  },
+  {
+    "id": 15,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Renal Dialysis Unit",
+    "public_access": false
+  },
+  {
+    "id": 16,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Renal Outpatients",
+    "public_access": true
+  },
+  {
+    "id": 17,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 1,
+    "name": "H1",
+    "public_access": true
+  },
+  {
+    "id": 18,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 1,
+    "name": "H2",
+    "public_access": true
+  },
+  {
+    "id": 19,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 1,
+    "name": "H3",
+    "public_access": true
+  },
+  {
+    "id": 20,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 1,
+    "name": "H4",
+    "public_access": true
+  },
+  {
+    "id": 21,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 1,
+    "name": "H5",
+    "public_access": true
+  },
+  {
+    "id": 22,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 1,
+    "name": "Urology Outpatients (UOPD)",
+    "public_access": true
+  },
+  {
+    "id": 23,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 2,
+    "name": "Critical Care Unit (CCU)",
+    "public_access": true
+  },
+  {
+    "id": 24,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 2,
+    "name": "H6",
+    "public_access": true
+  },
+  {
+    "id": 25,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 2,
+    "name": "H7",
+    "public_access": true
+  },
+  {
+    "id": 26,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 2,
+    "name": "H8",
+    "public_access": true
+  },
+  {
+    "id": 27,
+    "building_id": 9,
+    "building_name": "Humphrey Booth",
+    "level": 0,
+    "name": "ANU",
+    "public_access": true
+  },
+  {
+    "id": 28,
+    "building_id": 9,
+    "building_name": "Humphrey Booth",
+    "level": 0,
+    "name": "C1 (STU)",
+    "public_access": true
+  },
+  {
+    "id": 29,
+    "building_id": 9,
+    "building_name": "Humphrey Booth",
+    "level": 1,
+    "name": "C3",
+    "public_access": true
+  },
+  {
+    "id": 30,
+    "building_id": 9,
+    "building_name": "Humphrey Booth",
+    "level": 2,
+    "name": "C2",
+    "public_access": true
+  },
+  {
+    "id": 31,
+    "building_id": 9,
+    "building_name": "Humphrey Booth",
+    "level": 3,
+    "name": "Neuro Admin",
+    "public_access": false
+  },
+  {
+    "id": 32,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 0,
+    "name": "Physiotherapy Outpatients",
+    "public_access": true
+  },
+  {
+    "id": 33,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 0,
+    "name": "Stroke Rehabilitation Unit",
+    "public_access": true
+  },
+  {
+    "id": 34,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 1,
+    "name": "B1",
+    "public_access": true
+  },
+  {
+    "id": 35,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 1,
+    "name": "B2",
+    "public_access": true
+  },
+  {
+    "id": 36,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 1,
+    "name": "B3 (ASU 2)",
+    "public_access": true
+  },
+  {
+    "id": 37,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 1,
+    "name": "B4 (ASU)",
+    "public_access": true
+  },
+  {
+    "id": 38,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 2,
+    "name": "B5",
+    "public_access": true
+  },
+  {
+    "id": 39,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 2,
+    "name": "B6",
+    "public_access": true
+  },
+  {
+    "id": 40,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 2,
+    "name": "B7",
+    "public_access": true
+  },
+  {
+    "id": 41,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 2,
+    "name": "B8",
+    "public_access": true
+  },
+  {
+    "id": 42,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 2,
+    "name": "Occupational Therapy",
+    "public_access": false
+  },
+  {
+    "id": 43,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 0,
+    "name": "Pain Centre",
+    "public_access": true
+  },
+  {
+    "id": 44,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 0,
+    "name": "3T MRI Scanner",
+    "public_access": true
+  },
+  {
+    "id": 45,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 0,
+    "name": "Heart Care Unit",
+    "public_access": true
+  },
+  {
+    "id": 46,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 0,
+    "name": "L1",
+    "public_access": true
+  },
+  {
+    "id": 47,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 0,
+    "name": "Radiology 2",
+    "public_access": true
+  },
+  {
+    "id": 48,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 1,
+    "name": "L2",
+    "public_access": true
+  },
+  {
+    "id": 49,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 1,
+    "name": "L3",
+    "public_access": true
+  },
+  {
+    "id": 50,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 1,
+    "name": "L4",
+    "public_access": true
+  },
+  {
+    "id": 51,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 2,
+    "name": "L5",
+    "public_access": true
+  },
+  {
+    "id": 52,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 2,
+    "name": "L6",
+    "public_access": true
+  },
+  {
+    "id": 53,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 3,
+    "name": "L7",
+    "public_access": true
+  },
+  {
+    "id": 54,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 3,
+    "name": "L8",
+    "public_access": true
+  },
+  {
+    "id": 55,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 3,
+    "name": "Tissue Viability",
+    "public_access": false
+  },
+  {
+    "id": 56,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 0,
+    "name": "Decontamination",
+    "public_access": false
+  },
+  {
+    "id": 57,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 0,
+    "name": "Linen",
+    "public_access": false
+  },
+  {
+    "id": 58,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 0,
+    "name": "Receipt & Distribution",
+    "public_access": false
+  },
+  {
+    "id": 59,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 0,
+    "name": "Sterile Services",
+    "public_access": false
+  },
+  {
+    "id": 60,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 0,
+    "name": "Uniform",
+    "public_access": false
+  },
+  {
+    "id": 61,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 1,
+    "name": "Library",
+    "public_access": false
+  },
+  {
+    "id": 62,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 1,
+    "name": "Reache",
+    "public_access": false
+  },
+  {
+    "id": 63,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 1,
+    "name": "Vaccine Center",
+    "public_access": true
+  },
+  {
+    "id": 64,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 2,
+    "name": "Digital Experience Centre",
+    "public_access": false
+  },
+  {
+    "id": 65,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 2,
+    "name": "L&D (Skills Lab)",
+    "public_access": false
+  },
+  {
+    "id": 66,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 2,
+    "name": "Preceptorship",
+    "public_access": false
+  },
+  {
+    "id": 67,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 2,
+    "name": "Resus",
+    "public_access": false
+  },
+  {
+    "id": 68,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 2,
+    "name": "SCO HQ",
+    "public_access": false
+  },
+  {
+    "id": 69,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 3,
+    "name": "General Surgery Management",
+    "public_access": false
+  },
+  {
+    "id": 70,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 3,
+    "name": "Trust Exec",
+    "public_access": false
+  },
+  {
+    "id": 71,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 3,
+    "name": "Neuro Admin Management",
+    "public_access": false
+  },
+  {
+    "id": 72,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "CRI",
+    "public_access": true
+  },
+  {
+    "id": 73,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Chest Clinic",
+    "public_access": true
+  },
+  {
+    "id": 74,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "ENT",
+    "public_access": true
+  },
+  {
+    "id": 75,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Main Outpatients",
+    "public_access": true
+  },
+  {
+    "id": 76,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Oral Surgery",
+    "public_access": true
+  },
+  {
+    "id": 77,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Orthotics",
+    "public_access": true
+  },
+  {
+    "id": 78,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Podiatry",
+    "public_access": true
+  },
+  {
+    "id": 79,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Pre Op",
+    "public_access": true
+  },
+  {
+    "id": 80,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 1,
+    "name": "Day Case Surgery (SAL1)",
+    "public_access": true
+  },
+  {
+    "id": 81,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 1,
+    "name": "Endoscopy",
+    "public_access": true
+  },
+  {
+    "id": 82,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 1,
+    "name": "Orthopaedic Outpatients (Fracture Clinic)",
+    "public_access": true
+  },
+  {
+    "id": 83,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 1,
+    "name": "G.I Physiology",
+    "public_access": true
+  },
+  {
+    "id": 84,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 1,
+    "name": "Radiology 1",
+    "public_access": true
+  },
+  {
+    "id": 85,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 1,
+    "name": "G.I Intervention",
+    "public_access": true
+  },
+  {
+    "id": 86,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 2,
+    "name": "Pathology",
+    "public_access": false
+  },
+  {
+    "id": 87,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 2,
+    "name": "Phlebotomy",
+    "public_access": true
+  },
+  {
+    "id": 88,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 2,
+    "name": "Microbiology",
+    "public_access": false
+  },
+  {
+    "id": 89,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 2,
+    "name": "Biochemistry",
+    "public_access": false
+  },
+  {
+    "id": 90,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 2,
+    "name": "Cellular Pathology",
+    "public_access": false
+  },
+  {
+    "id": 91,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 2,
+    "name": "Infection Control",
+    "public_access": false
+  },
+  {
+    "id": 92,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 2,
+    "name": "Immunology",
+    "public_access": false
+  },
+  {
+    "id": 93,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 2,
+    "name": "Anti Coagulation",
+    "public_access": false
+  },
+  {
+    "id": 94,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 2,
+    "name": "Blood Bank",
+    "public_access": false
+  },
+  {
+    "id": 95,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 3,
+    "name": "Main Theatres",
+    "public_access": false
+  },
+  {
+    "id": 96,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 3,
+    "name": "Surgical Admissions Lounge (SAL3)",
+    "public_access": true
+  },
+  {
+    "id": 97,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 4,
+    "name": "Anaesthetics",
+    "public_access": false
+  },
+  {
+    "id": 98,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 0,
+    "name": "IM&T",
+    "public_access": false
+  },
+  {
+    "id": 99,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 0,
+    "name": "Stoma Care",
+    "public_access": false
+  },
+  {
+    "id": 100,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 0,
+    "name": "Clinical Health Psychology (Neuro Psychology)",
+    "public_access": true
+  },
+  {
+    "id": 101,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 0,
+    "name": "Stroke Research (Vascular Research)",
+    "public_access": false
+  },
+  {
+    "id": 102,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 0,
+    "name": "Upper GI",
+    "public_access": false
+  },
+  {
+    "id": 103,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 0,
+    "name": "Rheumatology Admin",
+    "public_access": false
+  },
+  {
+    "id": 104,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 0,
+    "name": "Cancer Services",
+    "public_access": false
+  },
+  {
+    "id": 105,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 0,
+    "name": "Respiratory Nurses",
+    "public_access": false
+  },
+  {
+    "id": 106,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 0,
+    "name": "Rapid Diagnostic Centre",
+    "public_access": false
+  },
+  {
+    "id": 107,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 2,
+    "name": "NHS Professionals",
+    "public_access": true
+  },
+  {
+    "id": 108,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 2,
+    "name": "Unison Office",
+    "public_access": false
+  },
+  {
+    "id": 109,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 2,
+    "name": "University of Manchester",
+    "public_access": false
+  },
+  {
+    "id": 110,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 1,
+    "name": "Biorepository",
+    "public_access": false
+  },
+  {
+    "id": 111,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 0,
+    "name": "Inpatient Pharmacy",
+    "public_access": false
+  },
+  {
+    "id": 112,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 0,
+    "name": "Dermatology Outpatients",
+    "public_access": true
+  },
+  {
+    "id": 113,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 0,
+    "name": "Discharge Lounge",
+    "public_access": false
+  },
+  {
+    "id": 114,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 0,
+    "name": "Diabetes Secretaries",
+    "public_access": false
+  },
+  {
+    "id": 115,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 0,
+    "name": "Diabetes (Endocrinology)",
+    "public_access": true
+  },
+  {
+    "id": 116,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 0,
+    "name": "IV Team",
+    "public_access": false
+  },
+  {
+    "id": 117,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 0,
+    "name": "Early Pregnancy Unit (EPU Orange)",
+    "public_access": true
+  },
+  {
+    "id": 118,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 1,
+    "name": "Palliative Care",
+    "public_access": false
+  },
+  {
+    "id": 119,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 1,
+    "name": "Spine Tango",
+    "public_access": false
+  },
+  {
+    "id": 120,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 1,
+    "name": "Gastro Secretaries",
+    "public_access": false
+  },
+  {
+    "id": 121,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 0,
+    "name": "Capital Estates and Facilities",
+    "public_access": false
+  },
+  {
+    "id": 122,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Health Records",
+    "public_access": false
+  },
+  {
+    "id": 123,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Call Centre",
+    "public_access": false
+  },
+  {
+    "id": 124,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 1,
+    "name": "Renal Secretaries",
+    "public_access": false
+  },
+  {
+    "id": 125,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 2,
+    "name": "Chaplaincy",
+    "public_access": true
+  },
+  {
+    "id": 126,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Bereavement Centre (Pam Woods Suite)",
+    "public_access": false
+  },
+  {
+    "id": 127,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Car Parking",
+    "public_access": true
+  },
+  {
+    "id": 128,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Panda Unit",
+    "public_access": true
+  },
+  {
+    "id": 129,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Macmillan Information Centre",
+    "public_access": true
+  },
+  {
+    "id": 130,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 0,
+    "name": "Domestics",
+    "public_access": false
+  },
+  {
+    "id": 131,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 0,
+    "name": "Bed Management",
+    "public_access": false
+  },
+  {
+    "id": 132,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 0,
+    "name": "Social Workers",
+    "public_access": false
+  },
+  {
+    "id": 133,
+    "building_id": 6,
+    "building_name": "Mayo",
+    "level": 0,
+    "name": "Mortuary",
+    "public_access": false
+  },
+  {
+    "id": 134,
+    "building_id": 9,
+    "building_name": "Humphrey Booth",
+    "level": 1,
+    "name": "MCCN",
+    "public_access": false
+  },
+  {
+    "id": 135,
+    "building_id": 5,
+    "building_name": "Brooke",
+    "level": 1,
+    "name": "Cardio Secretaries",
+    "public_access": false
+  },
+  {
+    "id": 136,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 2,
+    "name": "Neurosurgery Offices",
+    "public_access": false
+  },
+  {
+    "id": 137,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 1,
+    "name": "Metabolic Medicine (Mark Holland Suite)",
+    "public_access": false
+  },
+  {
+    "id": 138,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 1,
+    "name": "Clinical Photography",
+    "public_access": false
+  },
+  {
+    "id": 139,
+    "building_id": 4,
+    "building_name": "Ladywell",
+    "level": 2,
+    "name": "Occupational Health",
+    "public_access": false
+  },
+  {
+    "id": 140,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 2,
+    "name": "Thermography",
+    "public_access": false
+  },
+  {
+    "id": 141,
+    "building_id": 7,
+    "building_name": "CSB",
+    "level": 1,
+    "name": "Nutrition Nurses",
+    "public_access": false
+  },
+  {
+    "id": 142,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 1,
+    "name": "General Surgery Secretaries",
+    "public_access": false
+  },
+  {
+    "id": 143,
+    "building_id": 3,
+    "building_name": "Irving",
+    "level": 0,
+    "name": "Orthopaedic Admin",
+    "public_access": false
+  },
+  {
+    "id": 144,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Post Room",
+    "public_access": false
+  },
+  {
+    "id": 145,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Ground Restaurant",
+    "public_access": true
+  },
+  {
+    "id": 148,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Stoma Outpatients (OPD Area 1)",
+    "public_access": true
+  },
+  {
+    "id": 149,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Outpatient Pharmacy (Lloyds Pharmacy)",
+    "public_access": true
+  },
+  {
+    "id": 150,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Porters",
+    "public_access": false
+  },
+  {
+    "id": 151,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Switchboard",
+    "public_access": false
+  },
+  {
+    "id": 152,
+    "building_id": 2,
+    "building_name": "Hope",
+    "level": 0,
+    "name": "Security",
+    "public_access": false
+  },
+  {
+    "id": 153,
+    "building_id": 1,
+    "building_name": "Turnberg",
+    "level": 0,
+    "name": "Rheumatology Outpatients (OPD Area 4)",
+    "public_access": true
+  }
+]
