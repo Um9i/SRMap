@@ -6,11 +6,17 @@ interface buildingProps {
     departments: any[]
 }
 
-interface buildingState {
-    departments: any[]
+interface departmentObject {
+    id: number,
+    name: string,
+    level: number,
 }
 
-class Building extends React.Component<buildingProps, buildingState> {
+interface buildingState {
+    departments: departmentObject[]
+}
+
+class Building extends React.Component<buildingProps, buildingState, departmentObject> {
     constructor(props: any) {
         super(props);
         this.state = {
@@ -26,11 +32,18 @@ class Building extends React.Component<buildingProps, buildingState> {
 
     render() {
         const { departments } = this.state;
+        const sortedDepartments = [...departments].sort((a, b) => {
+            if (a.level === b.level) {
+                return a.name > b.name ? 1 : -1
+            } else {
+                return a.level > b.level ? 1 : -1
+            }
+        });
         return (
             <div className='Building'>
                 <h1 className='my-4 display-6 col-lg-6 offset-lg-3'>{this.props.buildingName} Building</h1>
                 <ul className='list-group my-4 col-lg-6 offset-lg-3 shadow-sm'>
-                    {departments?.map(department => (
+                    {sortedDepartments?.map(department => (
                         <li className='list-group-item d-flex justify-content-between align-items-center' key={department.id}>
                             {department.name}
                             <span className='badge bg-primary rounded-pill'>Level: {department.level}</span>
