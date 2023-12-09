@@ -30,8 +30,6 @@ jobs:
     - run: npm run build --if-present
 
     - name: Deploy
-      env:
-        GH_PAT: ${{ secrets.PAT }}
       run: |
         git config --global user.name $user_name
         git config --global user.email $user_email
@@ -42,3 +40,4 @@ jobs:
         user_email: 'github-actions[bot]@users.noreply.github.com'
         github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
         repository: ${{ github.repository }}
+        GH_PAT: ${{ secrets.PAT }}
