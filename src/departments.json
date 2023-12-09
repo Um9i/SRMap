@@ -1206,5 +1206,69 @@
     "level": 0,
     "name": "Rheumatology Outpatients (OPD Area 4)",
     "public_access": true
+  },
+  {
+    "id": 153,
+    "building_id": 10,
+    "building_name": "GMMTH",
+    "level": 0,
+    "name": "ERA",
+    "public_access": false
+  },
+  {
+    "id": 154,
+    "building_id": 10,
+    "building_name": "GMMTH",
+    "level": 0,
+    "name": "Radiology",
+    "public_access": false
+  },
+  {
+    "id": 155,
+    "building_id": 10,
+    "building_name": "GMMTH",
+    "level": 0,
+    "name": "Main Reception",
+    "public_access": false
+  },
+  {
+    "id": 156,
+    "building_id": 10,
+    "building_name": "GMMTH",
+    "level": 1,
+    "name": "Surgical Triage Unit",
+    "public_access": false
+  },
+  {
+    "id": 157,
+    "building_id": 10,
+    "building_name": "GMMTH",
+    "level": 2,
+    "name": "Theatres",
+    "public_access": false
+  },
+  {
+    "id": 158,
+    "building_id": 10,
+    "building_name": "GMMTH",
+    "level": 3,
+    "name": "Ward T4",
+    "public_access": false
+  },
+  {
+    "id": 159,
+    "building_id": 10,
+    "building_name": "GMMTH",
+    "level": 4,
+    "name": "Ward T5",
+    "public_access": false
+  },
+  {
+    "id": 160,
+    "building_id": 10,
+    "building_name": "GMMTH",
+    "level": 5,
+    "name": "Ward T6",
+    "public_access": false
   }
 ]

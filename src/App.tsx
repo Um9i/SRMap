@@ -63,6 +63,7 @@ class App extends React.Component<AppProps, AppState> {
                 <Route path="/barnes" element={<Building buildingId={8} buildingName='Barnes' departments={this.state.departments} />} />
                 <Route path="/brooke" element={<Building buildingId={5} buildingName='Brooke' departments={this.state.departments} />} />
                 <Route path="/csb" element={<Building buildingId={7} buildingName='Clinical Sciences' departments={this.state.departments} />} />
+                <Route path="/gmmth" element={<Building buildingId={10} buildingName='GMMTH' departments={this.state.departments} />} />
                 <Route path="/hope" element={<Building buildingId={2} buildingName='Hope' departments={this.state.departments} />} />
                 <Route path="/humphreybooth" element={<Building buildingId={9} buildingName='Humphrey Booth' departments={this.state.departments} />} />
                 <Route path="/irving" element={<Building buildingId={3} buildingName='Irving' departments={this.state.departments} />} />
