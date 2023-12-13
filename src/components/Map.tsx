@@ -49,7 +49,7 @@ class Map extends React.Component {
                 </Link>
               </div>
             </div>
-            <div className='col-3'>
+            <div className='col-2'>
 
             </div>
             <div className='col-5'>
@@ -59,7 +59,7 @@ class Map extends React.Component {
                 </Link>
               </div>
             </div>
-            <div className='col-1'></div>
+            <div className='col-2'></div>
           </div>
           <div className='row'>
             <div className='col-3'>
@@ -69,7 +69,7 @@ class Map extends React.Component {
                 </Link>
               </div>
             </div>
-            <div className='col-2'>
+            <div className='col-1'>
 
             </div>
             <div className='col-3'>
@@ -86,26 +86,29 @@ class Map extends React.Component {
                 </Link>
               </div>
             </div>
+            <div className='col-1'>
+
+            </div>
           </div>
           <div className='row'>
-            <div className='col-2'>
-            </div>
             <div className='col-3'>
+            </div>
+            <div className='col-2'>
               <div className='mayoSvg'>
                 <Link to='/mayo'>
                   <img src={mayoSvg} className='buildingSvg' alt='Mayo' />
                 </Link>
               </div>
             </div>
-            <div className='col-2'></div>
-            <div className='col-2'>
+            <div className='col-1'></div>
+            <div className='col-3 px-4'>
               <div className='barnesSvg'>
                 <Link to='/barnes'>
                   <img src={barnesSvg} className='buildingSvg' alt='Barnes' />
                 </Link>
               </div>
             </div>
-            <div className='col-2'>
+            <div className='col-3'>
 
             </div>
           </div>
